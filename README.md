@@ -6,8 +6,8 @@ Running experiments with Matlab Psychtoolbox
 Virginie Van Wassenhove, Marco Buiatti, and Karla Monzalvo for providing very useful examples.
 
 ## To see more example from Psychtoolbox itself:
-type help psychtoolbox
-select PsychDemos
+* type help psychtoolbox
+* select PsychDemos
 
 ## Here:
 * ExamplePsychtoolbox_Main (script to run the experiment)
