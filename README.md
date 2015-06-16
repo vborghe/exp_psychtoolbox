@@ -1,14 +1,17 @@
-# exp_psychtoolbox                                                           [vb August 2013]
+# exp_psychtoolbox                                                           
+
+                                                                                     [vb August 2013]
+                                                                                     
 Running experiments with Matlab Psychtoolbox
 
-%% Acknowledgements:
+## Acknowledgements:
 Virginie Van Wassenhove, Marco Buiatti, and Karla Monzalvo for providing very useful examples.
 
-%% To see more example from Psychtoolbox itself:
+## To see more example from Psychtoolbox itself:
 type help psychtoolbox
 select PsychDemos
 
-%% Here:
+## Here:
 * ExamplePsychtoolbox_Main (script to run the experiment)
 * ExamplePsychtoolbox_Stimlist (function that will be called by Main to generate the appropriate list of stimuli for a given subject and a given run)
 * ExamplePsychtoolbox_StimPre (function that will be called by Main to present the stimuli during the run)
