@@ -1,7 +1,5 @@
 # exp_psychtoolbox                                                           
 
-                                                                                     [vb August 2013]
-                                                                                     
 Running experiments with Matlab Psychtoolbox
 
 ## Acknowledgements:
